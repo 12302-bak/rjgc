@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path:  lib/sqljdbc4.jar
+Main-Class:  rjgc.LoginIn
+Created-By: XHS_12302 
+
+
